@@ -1,0 +1,25 @@
+h1{
+    font-family: fantasy;
+}
+ul{
+    border: 1px solid green;
+    background-color: beige;
+    width: 150px;
+    height: 90px;
+}
+li{
+    list-style: circle;
+}
+a{  
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+.next:hover{
+    font-style: oblique;
+}
+span{
+    font-weight: 1000;
+    color: green;
+    text-decoration: underline red wavy;
+}
